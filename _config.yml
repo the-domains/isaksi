@@ -1,0 +1,23 @@
+name: Isaksi
+favicon: null
+layout_spectrum: 0.16752994805574417
+typography_spectrum: 0.3197867532726377
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.759676436893642
+  lightness: 0.23614837555214763
+  saturation: 0.732117555802688
+  rhythmicContrast: 0.18577723670750856
+purpose: []
